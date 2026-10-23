@@ -79,6 +79,10 @@ Yoki is live at **[yoki-ai-fintech.fly.dev](https://yoki-ai-fintech.fly.dev)**: 
 For partnerships, pilots with your Steuerberater practice, or press, reach out through
 [GitHub](https://github.com/SuryaThakur999).
 
+## Also by Surya
+
+**[Dex](https://github.com/SuryaThakur999/dex)**: your AI marketing team, supervised. Finds the pages that cost you customers on Google and in ChatGPT, drafts the fix, waits for your yes.
+
 ---
 
 <sub>This repository is a product showcase and contains no source code. Yoki.AI is proprietary software,
